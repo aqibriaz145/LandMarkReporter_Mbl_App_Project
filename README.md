@@ -16,8 +16,8 @@ Sometimes you also have to replace with just word "local host"**
 
 Add two windows of terminal, navigate to client folder, and run the following command
 
-there is another folder landmarkreporter which contains the php server script which uploads the pictures from device
-add this folder in htdocs of xamp as well
+there is another **folder landmarkreporter** which contains the php server script which uploads the pictures from device
+add this folder in **htdocs of xamp** as well
 
 **npx expo start**
 To run on android you need to plug in your device and press "a" on command line but first need to download the expo app from playstore
